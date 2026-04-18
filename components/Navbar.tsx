@@ -80,7 +80,7 @@ export default function Navbar() {
           <Link href="/#contact" onClick={() => setOpen(false)}>Contact</Link>
 
           <a
-            href="tel:+1XXXXXXXXXX"
+           href="tel:+16474568442"
             className="bg-black text-white px-4 py-2 rounded-lg text-center flex items-center justify-center gap-2"
             onClick={() => setOpen(false)}
             >
