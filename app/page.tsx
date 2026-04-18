@@ -60,19 +60,7 @@ export default function Home() {
         ]}
       />
 
-      <About
-        title="About Ramesh Rana"
-        subtitle="A trusted Real Estate Broker with a rare blend of technical expertise, award‑winning performance, and a client‑first philosophy."
-        paragraphs={[
-          "Ramesh Rana is a licensed Real Estate Broker with Homelife Miracle Realty Ltd., Brokerage, bringing extensive industry experience since 2016. He began his career as a real estate salesperson and earned his broker designation in 2018, demonstrating a strong commitment to professional growth and excellence.",
-          "His entry into the real estate industry was built upon a solid foundation of hands‑on experience in home renovation, complemented by formal education and training in construction technology. This technical background enables him to provide clients with valuable insights into property structure, quality, and long‑term investment potential.",
-          "Prior to his real estate career, Ramesh developed strong client service and relationship management skills while working with a reputable organization, which continues to inform his client‑focused and service‑driven approach.",
-          "Ramesh’s consistent performance has been recognized through numerous prestigious awards, including the Rookie of the Year Award (2016), Chairman Award (2021 and 2022), President Award (2017, 2020, and 2024), Platinum Award (2016, 2018, 2019, and 2025), and Gold Award (2023).",
-          "He serves a broad geographic area, including the Greater Toronto Area and key markets such as Ottawa, Kingston, London, Kitchener, Waterloo, Cambridge, Guelph, Niagara Falls, and Brantford.",
-          "Specializing in both residential and commercial real estate, Ramesh provides comprehensive services in buying, selling, leasing, and investment. He is known for his integrity, professionalism, approachable nature, and strict commitment to client confidentiality.",
-          "With a career built on a rare combination of technical expertise and elite service, Ramesh has established himself as a premier force in Ontario real estate. Whether navigating complex commercial investments or helping families secure their first home, he is committed to delivering exceptional results with honesty and transparency."
-        ]}
-      />
+      <About/>
       <Testimonials
         testimonials={[
           {
