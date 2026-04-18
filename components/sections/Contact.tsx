@@ -25,7 +25,7 @@ export default function Contact() {
       `Name: ${form.name}\nEmail: ${form.email}\nPhone: ${form.phone}\n\nMessage:\n${form.message}`
     );
 
-    window.location.href = `mailto:ramesh@example.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:rameshrana@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
@@ -59,7 +59,7 @@ export default function Contact() {
               <Mail className="text-blue-600" size={24} />
               <div>
                 <h4 className="font-semibold">Email</h4>
-                <p className="text-gray-600 text-sm">123@email.com</p>
+                <p className="text-gray-600 text-sm">rameshrana@gmail.com</p>
               </div>
             </div>
 
