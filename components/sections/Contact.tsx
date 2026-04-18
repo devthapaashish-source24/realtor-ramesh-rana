@@ -59,7 +59,7 @@ export default function Contact() {
               <Mail className="text-blue-600" size={24} />
               <div>
                 <h4 className="font-semibold">Email</h4>
-                <p className="text-gray-600 text-sm">example@email.com</p>
+                <p className="text-gray-600 text-sm">123@email.com</p>
               </div>
             </div>
 
